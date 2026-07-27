@@ -9,7 +9,6 @@ import textwrap
 
 import pytest
 
-
 pythonlist = ["python3.11", "python3.12", "python3.13"]
 
 
