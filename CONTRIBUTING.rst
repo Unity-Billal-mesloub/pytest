@@ -25,7 +25,7 @@ We'd also like to hear about your propositions and suggestions.  Feel free to
 Report bugs
 -----------
 
-Report bugs for pytest in the `issue tracker <https://github.com/pytest-dev/pytest/issues>`_.
+Report bugs for pytest in the `issue tracker <https://github.com/Unity-Billal-mesloub/pytest/issues>`_.
 
 If you are reporting a bug, please include:
 
@@ -45,8 +45,8 @@ fix the bug itself.
 Fix bugs
 --------
 
-Look through the `GitHub issues for bugs <https://github.com/pytest-dev/pytest/labels/type:%20bug>`_.
-See also the `"good first issue" issues <https://github.com/pytest-dev/pytest/labels/good%20first%20issue>`_
+Look through the `GitHub issues for bugs <https://github.com/Unity-Billal-mesloub/pytest/labels/type:%20bug>`_.
+See also the `"good first issue" issues <https://github.com/Unity-Billal-mesloub/pytest/labels/good%20first%20issue>`_
 that are friendly to new contributors.
 
 `Talk to developers <https://docs.pytest.org/en/stable/contact.html>`_ to find out how you can fix specific bugs. To indicate that you are going
@@ -140,7 +140,7 @@ The objectives of the ``pytest-dev`` organisation are:
   longer wishes to maintain a plugin)
 
 You can submit your plugin by posting a new topic in the `pytest-dev GitHub Discussions
-<https://github.com/pytest-dev/pytest/discussions>`_ pointing to your existing pytest plugin repository which must have
+<https://github.com/Unity-Billal-mesloub/pytest/discussions>`_ pointing to your existing pytest plugin repository which must have
 the following:
 
 - PyPI presence with packaging metadata that contains a ``pytest-``
