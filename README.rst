@@ -1,4 +1,4 @@
-.. image:: https://github.com/pytest-dev/pytest/raw/main/doc/en/img/pytest_logo_curves.svg
+.. image:: https://github.com/Unity-Billal-mesloub/pytest/raw/main/doc/en/img/pytest_logo_curves.svg
    :target: https://docs.pytest.org/en/stable/
    :align: center
    :height: 200
@@ -20,7 +20,7 @@
     :target: https://codecov.io/gh/pytest-dev/pytest
     :alt: Code coverage Status
 
-.. image:: https://github.com/pytest-dev/pytest/actions/workflows/test.yml/badge.svg
+.. image:: https://github.com/Unity-Billal-mesloub/pytest/actions/workflows/test.yml/badge.svg
     :target: https://github.com/pytest-dev/pytest/actions?query=workflow%3Atest
 
 .. image:: https://results.pre-commit.ci/badge/github/pytest-dev/pytest/main.svg
@@ -152,11 +152,3 @@ Security
 If you have found an issue that you believe is a security vulnerability, please do not create an issue -- instead, report it via a `new security advisory <https://github.com/pytest-dev/pytest/security/advisories/new>`__.
 
 
-License
--------
-
-Copyright Holger Krekel and others, 2004.
-
-Distributed under the terms of the `MIT`_ license, pytest is free and open source software.
-
-.. _`MIT`: https://github.com/pytest-dev/pytest/blob/main/LICENSE
